@@ -18,6 +18,6 @@
 
 ## 📫 Connect with Me  
 - **GitHub**:  https://github.com/Jhanu06/ 
-- **LinkedIn**: https://www.linkedin.com/in/jhansi-madugula-6a6655258/  
+- **LinkedIn**: www.linkedin.com/in/jhansi6  
 - **Email**: madugulajhansi6@gmail.com
 
